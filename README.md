@@ -2,5 +2,4 @@
 - 👀 I'm interested in optimisation, stat ML, AI, quantum information, modelling and simulation
 - 📚 I'm currently studying at the University of Cambridge
 - 🌱 I'm currently working as an astro-ML Research Assistant at the Dunlap Institute of Astronomy & Astrophysics
-- 🚀 I'm next headed to Stanford University for my Ph.D! 
-- 📫 You can reach me at jk955@cam.ac.uk or julia.ve.kim@stanford.edu
+- 📫 You can reach me at jk955@cam.ac.uk
