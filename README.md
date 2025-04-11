@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @juliavekim! 
-- 👀 I'm interested in optimisation, stat ML, AI, quantum information, modelling and simulation
+- 👀 I'm interested in applied optimisation, ML, AI, modelling and simulation
 - 📚 I'm currently studying at the University of Cambridge
 - 🌱 I'm currently working as an astro-ML Research Assistant at the Dunlap Institute of Astronomy & Astrophysics
 - 📫 You can reach me at jk955@cam.ac.uk
