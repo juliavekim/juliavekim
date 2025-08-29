@@ -1,5 +1,6 @@
 - 👋 Hi, I'm @juliavekim! 
 - 👀 I'm interested in applied optimisation, ML, AI, modelling and simulation
-- 📚 I'm currently studying at the University of Cambridge
-- 🌱 I'm currently working as an astro-ML Research Assistant at the Dunlap Institute of Astronomy & Astrophysics
-- 📫 You can reach me at jk955@cam.ac.uk
+- 📚 I'm currently studying at MIT 
+- 🌱 I'm currently working as a Research Assistant, advised by Professor Dimitris Bertsimas 
+- 📫 You can reach me at julia225@mit.edu
+- ⭐ Echoing Dr Bertsimas, (1) Be positive, (2) Have high aspirations ("a can-do attitude"), (3) Have a good heart! 
