@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @juliavekim! 
-- 👀 I'm interested in applied optimisation, ML, AI, modelling and simulation
+- 👀 I'm interested in applied ML & AI, especially to personalised education
 - 📚 I'm currently studying at MIT 
 - 🌱 I'm currently working as a Research Assistant, fortunate to be advised by Professor Dimitris Bertsimas 
 - 📫 You can reach me at julia225@mit.edu
