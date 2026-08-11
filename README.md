@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @juliavekim! 
-- 👀 I'm interested in applied ML & AI, especially to personalised education
+- 👀 I'm interested in developing data-driven ML algorithms 
 - 📚 I'm currently studying at MIT 
-- 🌱 I'm currently working as a Research Assistant, fortunate to be advised by Professor Dimitris Bertsimas 
-- 📫 You can reach me at julia225@mit.edu
-- ⭐ Echoing Dr Bertsimas, (1) Be positive, (2) Have high aspirations ("a can-do attitude"), (3) Have a good heart! 
+- 🌱 I'm currently working as a Research Assistant
+- 📫 You can reach me at julia225@mit.edu 
