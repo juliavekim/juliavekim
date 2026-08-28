@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @juliavekim! 
-- 👀 I'm interested in developing data-driven ML algorithms 
-- 📚 I'm currently studying at MIT 
+- 👀 I'm interested in developing data-driven ML algorithms for socially relevant applications
+- 📚 I'm currently studying at MIT ORC 
 - 🌱 I'm currently working as a Research Assistant
 - 📫 You can reach me at julia225@mit.edu 
